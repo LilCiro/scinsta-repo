@@ -1,1 +1,1 @@
-# scinsta-repo
+# scinsta-rep
